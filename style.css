@@ -1,6 +1,7 @@
 body {
     background-color: azure;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
 nav {
@@ -31,7 +32,6 @@ a {
 p {
     margin-left: 3%;
     margin-bottom: 1%;
-    font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
     color: darkslategrey;
 }
@@ -53,4 +53,21 @@ button {
 div {
     
     margin: 0 40%;
+}
+
+#code{
+    margin-left: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#seteporcento{
+    margin-left: 7%;
+}
+
+#noveporcento{
+    margin-left: 9%;
+}
+
+#dozeporcento{
+    margin-left: 12%;
 }
